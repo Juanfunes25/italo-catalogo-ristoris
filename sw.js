@@ -2,7 +2,7 @@
 // Cachea todo el app shell + el dataset + todas las fotos de producto
 // para que la app funcione 100% offline después de la primera carga.
 
-var CACHE_VERSION = 'ristoris-catalogo-v3';
+var CACHE_VERSION = 'ristoris-catalogo-v4';
 var CORE_ASSETS = [
   './',
   './index.html',
