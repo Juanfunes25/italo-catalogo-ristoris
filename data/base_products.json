@@ -1,0 +1,478 @@
+[
+  {
+    "codigo": "017028",
+    "nombre_it": "CONDIMENTO OLIO AL PEPERONCINO",
+    "presentacion": "Bottiglia - 250 ml",
+    "precio_ristoris_eur": 3.4,
+    "categoria": "Aceites"
+  },
+  {
+    "codigo": "017021",
+    "nombre_it": "OLIO EVO AL TARTUFO BIANCO",
+    "presentacion": "Bottiglia - 250 ml",
+    "precio_ristoris_eur": 5.6,
+    "categoria": "Aceites"
+  },
+  {
+    "codigo": "017065",
+    "nombre_it": "OLIO EXTRAVERGINE DI OLIVA",
+    "presentacion": "Bottiglia - 250 ml",
+    "precio_ristoris_eur": 3.2,
+    "categoria": "Aceites"
+  },
+  {
+    "codigo": "017070",
+    "nombre_it": "OLIO EXTRAVERGINE DI OLIVA",
+    "presentacion": "Bottiglia - 1 L",
+    "precio_ristoris_eur": 6.4,
+    "categoria": "Aceites"
+  },
+  {
+    "codigo": "009521",
+    "nombre_it": "COCKTAIL OLIVE GIGANTI TRIFOLATE",
+    "presentacion": "Latta 4/4 - 780 g",
+    "precio_ristoris_eur": 6.1,
+    "categoria": "Aceitunas"
+  },
+  {
+    "codigo": "RT0401",
+    "nombre_it": "OLIVE GIGANTI TRIFOLATE",
+    "presentacion": "Vaso Vetro 314 ml - 320 g",
+    "precio_ristoris_eur": 3,
+    "categoria": "Aceitunas"
+  },
+  {
+    "codigo": "009520",
+    "nombre_it": "OLIVE NERE AL FORNO",
+    "presentacion": "Busta - 1 Kg",
+    "precio_ristoris_eur": 7.4,
+    "categoria": "Aceitunas"
+  },
+  {
+    "codigo": "RT0404",
+    "nombre_it": "OLIVE TAGGIASCHE DENOCCIOLATE IN OLIO EVO",
+    "presentacion": "Vaso Vetro 314 ml - 295 g",
+    "precio_ristoris_eur": 4.6,
+    "categoria": "Aceitunas"
+  },
+  {
+    "codigo": "RT0830",
+    "nombre_it": "SALSA DI OLIVE NERE",
+    "presentacion": "Vaso Vetro 212 ml - 225 g",
+    "precio_ristoris_eur": 2,
+    "categoria": "Aceitunas"
+  },
+  {
+    "codigo": "RT0826",
+    "nombre_it": "SALSA DI OLIVE VERDI",
+    "presentacion": "Vaso Vetro 212 ml - 225 g",
+    "precio_ristoris_eur": 2,
+    "categoria": "Aceitunas"
+  },
+  {
+    "codigo": "012570",
+    "nombre_it": "SALSA DI OLIVE VERDI",
+    "presentacion": "Vaso Vetro 580 ml - 510 g",
+    "precio_ristoris_eur": 2.9,
+    "categoria": "Aceitunas"
+  },
+  {
+    "codigo": "005031",
+    "nombre_it": "COLATURA DI ALICI",
+    "presentacion": "Bottiglia - 250 ml",
+    "precio_ristoris_eur": 12.2,
+    "categoria": "Condimentos"
+  },
+  {
+    "codigo": "005074",
+    "nombre_it": "NERO DI SEPPIA",
+    "presentacion": "Vaso Vetro 230 g",
+    "precio_ristoris_eur": 6.2,
+    "categoria": "Condimentos"
+  },
+  {
+    "codigo": "006500",
+    "nombre_it": "FUNGHI CHAMPIGNONS - SPECIALE PIZZA",
+    "presentacion": "Latta 3/1 - 2500 g",
+    "precio_ristoris_eur": 4.8,
+    "categoria": "Conservas de verdura"
+  },
+  {
+    "codigo": "RT0104",
+    "nombre_it": "MISTO FUNGHI IN OLIO",
+    "presentacion": "Vaso Vetro 314 ml - 295 g",
+    "precio_ristoris_eur": 2.7,
+    "categoria": "Conservas de verdura"
+  },
+  {
+    "codigo": "010510",
+    "nombre_it": "PEPERONCINI A RONDELLE PICCANTI",
+    "presentacion": "Latta 4/4 - 750 g",
+    "precio_ristoris_eur": 4.3,
+    "categoria": "Conservas de verdura"
+  },
+  {
+    "codigo": "001507",
+    "nombre_it": "POMODORI CILIEGINI ROSSI SEMISECCHI",
+    "presentacion": "Latta 4/4 - 750 g",
+    "precio_ristoris_eur": 5.6,
+    "categoria": "Conservas de verdura"
+  },
+  {
+    "codigo": "003556",
+    "nombre_it": "POMODORI PELATI SAN MARZANO",
+    "presentacion": "Latta 3/1",
+    "precio_ristoris_eur": 6.3,
+    "categoria": "Conservas de verdura"
+  },
+  {
+    "codigo": "RT0005",
+    "nombre_it": "POMODORI SECCHI",
+    "presentacion": "Vaso Vetro 314 ml - 295 g",
+    "precio_ristoris_eur": 2.35,
+    "categoria": "Conservas de verdura"
+  },
+  {
+    "codigo": "001520",
+    "nombre_it": "POMODORI SECCHI",
+    "presentacion": "Vaso Vetro 3100 ml",
+    "precio_ristoris_eur": 13.2,
+    "categoria": "Conservas de verdura"
+  },
+  {
+    "codigo": "001528",
+    "nombre_it": "POMODORI VERDI SEMISECCHI AL COLTELLO",
+    "presentacion": "Latta 4/4 - 750 g",
+    "precio_ristoris_eur": 4.6,
+    "categoria": "Conservas de verdura"
+  },
+  {
+    "codigo": "RT0833",
+    "nombre_it": "SALSA DI POMODORI SECCHI",
+    "presentacion": "Vaso Vetro 212 ml - 225 g",
+    "precio_ristoris_eur": 2.8,
+    "categoria": "Conservas de verdura"
+  },
+  {
+    "codigo": "013050",
+    "nombre_it": "CREMA DI 'NDUJA",
+    "presentacion": "Vaso Vetro 260 g - 314 ml",
+    "precio_ristoris_eur": 4.5,
+    "categoria": "Cremas"
+  },
+  {
+    "codigo": "012629",
+    "nombre_it": "CREMA DI CHAMPIGNONS",
+    "presentacion": "Latta 4/4 - 780 g",
+    "precio_ristoris_eur": 5.1,
+    "categoria": "Cremas"
+  },
+  {
+    "codigo": "013042",
+    "nombre_it": "CREMA DI ZUCCA",
+    "presentacion": "Latta 1/2 - 400 g",
+    "precio_ristoris_eur": 2.8,
+    "categoria": "Cremas"
+  },
+  {
+    "codigo": "013028",
+    "nombre_it": "CREMA 5 FORMAGGI - GUSTOSA",
+    "presentacion": "Latta 1/2 - 400 g",
+    "precio_ristoris_eur": 5.4,
+    "categoria": "Cremas / Quesos"
+  },
+  {
+    "codigo": "012521",
+    "nombre_it": "SALSA DI PECORINO ROMANO D.O.P.",
+    "presentacion": "Vaso Vetro 580 ml - 540 g",
+    "precio_ristoris_eur": 10.9,
+    "categoria": "Cremas / Quesos"
+  },
+  {
+    "codigo": "004025",
+    "nombre_it": "SALSA ALLO ZAFFERANO",
+    "presentacion": "Vaso Vetro 425 ml - 380 g",
+    "precio_ristoris_eur": 5.3,
+    "categoria": "Especias"
+  },
+  {
+    "codigo": "004028",
+    "nombre_it": "ZAFFERANO",
+    "presentacion": "Bustina gr 0,125",
+    "precio_ristoris_eur": 0.3,
+    "categoria": "Especias"
+  },
+  {
+    "codigo": "015007",
+    "nombre_it": "FRUTTI DI BOSCO ALLO SCIROPPO",
+    "presentacion": "Vaso Vetro 580 ml - 580 g",
+    "precio_ristoris_eur": 5.1,
+    "categoria": "Frutta"
+  },
+  {
+    "codigo": "004057",
+    "nombre_it": "RAVIOLI SECCHI",
+    "presentacion": "Sacchetto - 1000 g",
+    "precio_ristoris_eur": 5.2,
+    "categoria": "Pasta"
+  },
+  {
+    "codigo": "RT0801",
+    "nombre_it": "PESTO ALLA GENOVESE",
+    "presentacion": "Vaso Vetro 212 ml - 210 g",
+    "precio_ristoris_eur": 2,
+    "categoria": "Pesti"
+  },
+  {
+    "codigo": "012715",
+    "nombre_it": "PESTO ALLA GENOVESE S.C. (Catering)",
+    "presentacion": "Vaso Vetro 580 ml - 500 g",
+    "precio_ristoris_eur": 2.9,
+    "categoria": "Pesti"
+  },
+  {
+    "codigo": "012607",
+    "nombre_it": "PESTO DI AGRUMI",
+    "presentacion": "Vaso Vetro 580 ml - 500 g",
+    "precio_ristoris_eur": 5.8,
+    "categoria": "Pesti"
+  },
+  {
+    "codigo": "RT0804",
+    "nombre_it": "PESTO ROSSO",
+    "presentacion": "Vaso Vetro 212 ml - 210 g",
+    "precio_ristoris_eur": 2.2,
+    "categoria": "Pesti"
+  },
+  {
+    "codigo": "012721",
+    "nombre_it": "PESTO ROSSO",
+    "presentacion": "Vaso Vetro 580 ml - 520 g",
+    "precio_ristoris_eur": 4.6,
+    "categoria": "Pesti"
+  },
+  {
+    "codigo": "002581",
+    "nombre_it": "RAGU DI ANATRA",
+    "presentacion": "Latta 4/4 - 800 g",
+    "precio_ristoris_eur": 14.6,
+    "categoria": "Ragù / Carnes"
+  },
+  {
+    "codigo": "002570",
+    "nombre_it": "RAGU DI CINGHIALE",
+    "presentacion": "Latta 4/4 - 800 g",
+    "precio_ristoris_eur": 9.8,
+    "categoria": "Ragù / Carnes"
+  },
+  {
+    "codigo": "001005",
+    "nombre_it": "STINCO DI PROSCIUTTO",
+    "presentacion": "Busta - 600 g",
+    "precio_ristoris_eur": 4.3,
+    "categoria": "Ragù / Carnes"
+  },
+  {
+    "codigo": "003014",
+    "nombre_it": "RISO ARBORIO",
+    "presentacion": "Astuccio Kg 1",
+    "precio_ristoris_eur": 2.8,
+    "categoria": "Riso"
+  },
+  {
+    "codigo": "003028",
+    "nombre_it": "RISO CARNAROLI",
+    "presentacion": "Astuccio Kg 1",
+    "precio_ristoris_eur": 2.8,
+    "categoria": "Riso"
+  },
+  {
+    "codigo": "012612",
+    "nombre_it": "SALSA DI ASPARAGI",
+    "presentacion": "Vaso Vetro 580 ml - 520 g",
+    "precio_ristoris_eur": 4.6,
+    "categoria": "Salsas"
+  },
+  {
+    "codigo": "RT0811",
+    "nombre_it": "SALSA DI CARCIOFI",
+    "presentacion": "Vaso Vetro 212 ml - 210 g",
+    "precio_ristoris_eur": 2.6,
+    "categoria": "Salsas"
+  },
+  {
+    "codigo": "012732",
+    "nombre_it": "SALSA DI NOCI",
+    "presentacion": "Vaso Vetro 580 ml - 510 g",
+    "precio_ristoris_eur": 5.1,
+    "categoria": "Salsas"
+  },
+  {
+    "codigo": "RT0822",
+    "nombre_it": "SALSA DI PEPERONI",
+    "presentacion": "Vaso Vetro 212 ml - 225 g",
+    "precio_ristoris_eur": 2.8,
+    "categoria": "Salsas"
+  },
+  {
+    "codigo": "RT0819",
+    "nombre_it": "SALSA DI RADICCHIO",
+    "presentacion": "Vaso Vetro 212 ml - 225 g",
+    "precio_ristoris_eur": 2.4,
+    "categoria": "Salsas"
+  },
+  {
+    "codigo": "012556",
+    "nombre_it": "SALSA DI RUCOLA",
+    "presentacion": "Vaso Vetro 580 ml - 500 g",
+    "precio_ristoris_eur": 4.9,
+    "categoria": "Salsas"
+  },
+  {
+    "codigo": "012554",
+    "nombre_it": "SALSA DI SALVIA E LIMONE",
+    "presentacion": "Vaso Vetro 580 ml - 500 g",
+    "precio_ristoris_eur": 5.1,
+    "categoria": "Salsas"
+  },
+  {
+    "codigo": "012032",
+    "nombre_it": "SALSA PRONTA PER BRUSCHETTA",
+    "presentacion": "Vaso Vetro 1062 ml - 1000 g",
+    "precio_ristoris_eur": 3.6,
+    "categoria": "Salsas"
+  },
+  {
+    "codigo": "012615",
+    "nombre_it": "CARPACCIO DI TARTUFO NERO IN OLIO EVO",
+    "presentacion": "Vaso Vetro 80 g",
+    "precio_ristoris_eur": 6.5,
+    "categoria": "Salsas de trufa"
+  },
+  {
+    "codigo": "012637",
+    "nombre_it": "POLVERE DI TARTUFO",
+    "presentacion": "Bottiglia - 50 ml",
+    "precio_ristoris_eur": 7.9,
+    "categoria": "Salsas de trufa"
+  },
+  {
+    "codigo": "012626",
+    "nombre_it": "SALSA CHAMPIGNONS E TARTUFO BIANCO",
+    "presentacion": "Vaso Vetro 580 ml - 510 g",
+    "precio_ristoris_eur": 6.8,
+    "categoria": "Salsas de trufa"
+  },
+  {
+    "codigo": "RT0807",
+    "nombre_it": "SALSA TARTUFATA",
+    "presentacion": "Vaso Vetro 212 ml - 225 g",
+    "precio_ristoris_eur": 4,
+    "categoria": "Salsas de trufa"
+  },
+  {
+    "codigo": "012619",
+    "nombre_it": "SALSA TARTUFATA (lav. dal fresco)",
+    "presentacion": "Vaso Vetro 580 ml - 510 g",
+    "precio_ristoris_eur": 6.2,
+    "categoria": "Salsas de trufa"
+  },
+  {
+    "codigo": "012662",
+    "nombre_it": "PESTO DI ANANAS",
+    "presentacion": "Vaso Vetro 580 ml",
+    "precio_ristoris_eur": 7.1,
+    "categoria": "Salsas dulces / frutos secos"
+  },
+  {
+    "codigo": "012654",
+    "nombre_it": "PESTO DI FRAGOLE",
+    "presentacion": "Vaso Vetro 580 ml",
+    "precio_ristoris_eur": 7.1,
+    "categoria": "Salsas dulces / frutos secos"
+  },
+  {
+    "codigo": "012605",
+    "nombre_it": "SALSA DI PISTACCHIO - RICETTA ANTICA",
+    "presentacion": "Vaso Vetro 580 ml - 520 g",
+    "precio_ristoris_eur": 11.9,
+    "categoria": "Salsas dulces / frutos secos"
+  },
+  {
+    "codigo": "012565",
+    "nombre_it": "SALSA PEPERONCINI PICCANTI",
+    "presentacion": "Vaso Vetro 580 ml",
+    "precio_ristoris_eur": 3.8,
+    "categoria": "Salsas picantes"
+  },
+  {
+    "codigo": "RT0837",
+    "nombre_it": "SALSA PICCANTISSIMA",
+    "presentacion": "Vaso Vetro 212 ml - 225 g",
+    "precio_ristoris_eur": 2.4,
+    "categoria": "Salsas picantes"
+  },
+  {
+    "codigo": "RT0700",
+    "nombre_it": "SALSA DI POMODORI DATTERINI",
+    "presentacion": "Bottiglia - 330 ml",
+    "precio_ristoris_eur": 1.7,
+    "categoria": "Sughi"
+  },
+  {
+    "codigo": "RT0715",
+    "nombre_it": "SUGO AI FUNGHI PORCINI",
+    "presentacion": "Vaso Vetro 212 ml - 225 g",
+    "precio_ristoris_eur": 3.7,
+    "categoria": "Sughi"
+  },
+  {
+    "codigo": "RT0701",
+    "nombre_it": "SUGO AL POMODORO",
+    "presentacion": "Vaso Vetro 314 ml - 295 g",
+    "precio_ristoris_eur": 1.7,
+    "categoria": "Sughi"
+  },
+  {
+    "codigo": "RT0716",
+    "nombre_it": "SUGO ALL'AMATRICIANA",
+    "presentacion": "Vaso Vetro 212 ml - 200 g",
+    "precio_ristoris_eur": 3.3,
+    "categoria": "Sughi"
+  },
+  {
+    "codigo": "RT0704",
+    "nombre_it": "SUGO ALL'ARRABBIATA",
+    "presentacion": "Vaso Vetro 314 ml - 295 g",
+    "precio_ristoris_eur": 1.7,
+    "categoria": "Sughi"
+  },
+  {
+    "codigo": "RT0707",
+    "nombre_it": "SUGO ALLA PUTTANESCA",
+    "presentacion": "Vaso Vetro 314 ml - 295 g",
+    "precio_ristoris_eur": 2.2,
+    "categoria": "Sughi"
+  },
+  {
+    "codigo": "RT0717",
+    "nombre_it": "SUGO CACIO E PEPE",
+    "presentacion": "Vaso Vetro 212 ml - 200 g",
+    "precio_ristoris_eur": 4.6,
+    "categoria": "Sughi"
+  },
+  {
+    "codigo": "017005",
+    "nombre_it": "ACETO BALSAMICO DI MODENA I.G.P.",
+    "presentacion": "Bottiglia - 250 ml",
+    "precio_ristoris_eur": 1.35,
+    "categoria": "Vinagres"
+  },
+  {
+    "codigo": "017014",
+    "nombre_it": "SALSA ALL'ACETO BALSAMICO DI MODENA",
+    "presentacion": "Flacone - 500 ml",
+    "precio_ristoris_eur": 2.6,
+    "categoria": "Vinagres"
+  }
+]

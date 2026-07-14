@@ -1,0 +1,530 @@
+[
+  {
+    "codigo": "RT0005",
+    "url": "https://www.ristoris.it/public/151121-121125-pomodorisecchi.png",
+    "status": "ok",
+    "width": 334,
+    "height": 512,
+    "format": "png"
+  },
+  {
+    "codigo": "RT0104",
+    "url": "https://www.ristoris.it/public/151121-121126-mistofunghiinolio.png",
+    "status": "ok",
+    "width": 334,
+    "height": 512,
+    "format": "png"
+  },
+  {
+    "codigo": "RT0700",
+    "url": "https://www.ristoris.it/public/200525-115443-rt0700salsadatterini314mlmontaggio.png",
+    "status": "ok",
+    "width": 3000,
+    "height": 4000,
+    "format": "png"
+  },
+  {
+    "codigo": "RT0701",
+    "url": "https://www.ristoris.it/public/151121-121123-sugoalpomodoro.png",
+    "status": "ok",
+    "width": 334,
+    "height": 512,
+    "format": "png"
+  },
+  {
+    "codigo": "RT0704",
+    "url": "https://www.ristoris.it/public/151121-121123-sugoallarrabbiata.png",
+    "status": "ok",
+    "width": 334,
+    "height": 512,
+    "format": "png"
+  },
+  {
+    "codigo": "RT0707",
+    "url": "https://www.ristoris.it/public/151121-121123-sugoallaputtanesca.png",
+    "status": "ok",
+    "width": 334,
+    "height": 512,
+    "format": "png"
+  },
+  {
+    "codigo": "RT0715",
+    "url": "https://www.ristoris.it/public/151121-121123-sugoaifunghiporcini.png",
+    "status": "ok",
+    "width": 334,
+    "height": 512,
+    "format": "png"
+  },
+  {
+    "codigo": "RT0716",
+    "url": "https://www.ristoris.it/public/151121-121124-sugoallamatriciana.png",
+    "status": "ok",
+    "width": 334,
+    "height": 512,
+    "format": "png"
+  },
+  {
+    "codigo": "RT0401",
+    "url": "https://www.ristoris.it/public/151121-121126-olivegigantitrifolate.png",
+    "status": "ok",
+    "width": 334,
+    "height": 512,
+    "format": "png"
+  },
+  {
+    "codigo": "RT0404",
+    "url": "https://www.ristoris.it/public/151121-121125-olivetaggiaschedenocciolateinolioextraverginedioliva.png",
+    "status": "ok",
+    "width": 334,
+    "height": 512,
+    "format": "png"
+  },
+  {
+    "codigo": "RT0801",
+    "url": "https://www.ristoris.it/public/151121-121125-pestoallagenovese.png",
+    "status": "ok",
+    "width": 334,
+    "height": 512,
+    "format": "png"
+  },
+  {
+    "codigo": "RT0804",
+    "url": "https://www.ristoris.it/public/151121-121125-pestorosso.png",
+    "status": "ok",
+    "width": 334,
+    "height": 512,
+    "format": "png"
+  },
+  {
+    "codigo": "RT0807",
+    "url": "https://www.ristoris.it/public/151121-121124-salsatartufata.png",
+    "status": "ok",
+    "width": 334,
+    "height": 512,
+    "format": "png"
+  },
+  {
+    "codigo": "RT0811",
+    "url": "https://www.ristoris.it/public/151121-121124-salsadicarciofi.png",
+    "status": "ok",
+    "width": 334,
+    "height": 512,
+    "format": "png"
+  },
+  {
+    "codigo": "RT0819",
+    "url": "https://www.ristoris.it/public/151121-121124-salsadiradicchio.png",
+    "status": "ok",
+    "width": 334,
+    "height": 512,
+    "format": "png"
+  },
+  {
+    "codigo": "RT0822",
+    "url": "https://www.ristoris.it/public/151121-121124-salsadipeperoni.png",
+    "status": "ok",
+    "width": 334,
+    "height": 512,
+    "format": "png"
+  },
+  {
+    "codigo": "RT0826",
+    "url": "https://www.ristoris.it/public/151121-121124-salsadioliveverdi.png",
+    "status": "ok",
+    "width": 334,
+    "height": 512,
+    "format": "png"
+  },
+  {
+    "codigo": "RT0830",
+    "url": "https://www.ristoris.it/public/151121-121124-salsadiolivenere.png",
+    "status": "ok",
+    "width": 334,
+    "height": 512,
+    "format": "png"
+  },
+  {
+    "codigo": "RT0833",
+    "url": "https://www.ristoris.it/public/151121-121124-salsadipomodorisecchi.png",
+    "status": "ok",
+    "width": 334,
+    "height": 512,
+    "format": "png"
+  },
+  {
+    "codigo": "RT0837",
+    "url": "https://www.ristoris.it/public/151121-121124-salsapiccantissima.png",
+    "status": "ok",
+    "width": 334,
+    "height": 512,
+    "format": "png"
+  },
+  {
+    "codigo": "012032",
+    "url": "https://www.ristoris.it/public/330000-330000-012032.jpg",
+    "status": "ok",
+    "width": 550,
+    "height": 800,
+    "format": "jpeg"
+  },
+  {
+    "codigo": "012662",
+    "url": "https://www.ristoris.it/public/270526-091226-linkxsito5.png",
+    "status": "ok",
+    "width": 400,
+    "height": 582,
+    "format": "png"
+  },
+  {
+    "codigo": "012654",
+    "url": "https://www.ristoris.it/public/140526-135600-linkxsito3.png",
+    "status": "ok",
+    "width": 400,
+    "height": 582,
+    "format": "png"
+  },
+  {
+    "codigo": "012554",
+    "url": "https://www.ristoris.it/public/230125-150608-linkxsito1.png",
+    "status": "ok",
+    "width": 400,
+    "height": 582,
+    "format": "png"
+  },
+  {
+    "codigo": "012732",
+    "url": "https://www.ristoris.it/public/330000-330000-012732.jpg",
+    "status": "ok",
+    "width": 550,
+    "height": 800,
+    "format": "jpeg"
+  },
+  {
+    "codigo": "012715",
+    "url": "https://www.ristoris.it/public/330000-330000-013000.jpg",
+    "status": "ok",
+    "width": 550,
+    "height": 800,
+    "format": "jpeg"
+  },
+  {
+    "codigo": "005074",
+    "url": "https://www.ristoris.it/public/020823-173248-progettosenzatitolo4.png",
+    "status": "ok",
+    "width": 400,
+    "height": 582,
+    "format": "png"
+  },
+  {
+    "codigo": "004025",
+    "url": "https://www.ristoris.it/public/020823-173414-linksito.png",
+    "status": "ok",
+    "width": 400,
+    "height": 582,
+    "format": "png"
+  },
+  {
+    "codigo": "012721",
+    "url": "https://www.ristoris.it/public/330000-330000-012721.jpg",
+    "status": "ok",
+    "width": 550,
+    "height": 800,
+    "format": "jpeg"
+  },
+  {
+    "codigo": "012629",
+    "url": "https://www.ristoris.it/public/050517-094057-012629.jpg",
+    "status": "ok",
+    "width": 550,
+    "height": 800,
+    "format": "jpeg"
+  },
+  {
+    "codigo": "013042",
+    "url": "https://www.ristoris.it/public/330000-330000-013042.jpg",
+    "status": "ok",
+    "width": 550,
+    "height": 800,
+    "format": "jpeg"
+  },
+  {
+    "codigo": "012612",
+    "url": "https://www.ristoris.it/public/330000-330000-013077.jpg",
+    "status": "ok",
+    "width": 550,
+    "height": 800,
+    "format": "jpeg"
+  },
+  {
+    "codigo": "012565",
+    "url": "https://www.ristoris.it/public/261121-152341-012565prodotto.jpg",
+    "status": "ok",
+    "width": 400,
+    "height": 582,
+    "format": "jpeg"
+  },
+  {
+    "codigo": "012556",
+    "url": "https://www.ristoris.it/public/330000-330000-012556.jpg",
+    "status": "ok",
+    "width": 550,
+    "height": 800,
+    "format": "jpeg"
+  },
+  {
+    "codigo": "012570",
+    "url": "https://www.ristoris.it/public/330000-330000-012570.jpg",
+    "status": "ok",
+    "width": 550,
+    "height": 800,
+    "format": "jpeg"
+  },
+  {
+    "codigo": "012605",
+    "url": "https://www.ristoris.it/public/031221-162304-012605prodotto.png",
+    "status": "ok",
+    "width": 400,
+    "height": 582,
+    "format": "png"
+  },
+  {
+    "codigo": "012607",
+    "url": "https://www.ristoris.it/public/261121-130809-012607prodotto.jpg",
+    "status": "ok",
+    "width": 400,
+    "height": 582,
+    "format": "jpeg"
+  },
+  {
+    "codigo": "013028",
+    "url": "https://www.ristoris.it/public/330000-330000-013028.jpg",
+    "status": "ok",
+    "width": 550,
+    "height": 800,
+    "format": "jpeg"
+  },
+  {
+    "codigo": "012521",
+    "url": "https://www.ristoris.it/public/330000-330000-012521.jpg",
+    "status": "ok",
+    "width": 550,
+    "height": 800,
+    "format": "jpeg"
+  },
+  {
+    "codigo": "013050",
+    "url": "https://www.ristoris.it/public/050517-094709-013050.jpg",
+    "status": "ok",
+    "width": 550,
+    "height": 800,
+    "format": "jpeg"
+  },
+  {
+    "codigo": "012637",
+    "url": "https://www.ristoris.it/public/240424-110230-linksito1.jpg",
+    "status": "ok",
+    "width": 400,
+    "height": 582,
+    "format": "jpeg"
+  },
+  {
+    "codigo": "012619",
+    "url": "https://www.ristoris.it/public/251121-172541-012619prodotto.jpg",
+    "status": "ok",
+    "width": 400,
+    "height": 582,
+    "format": "jpeg"
+  },
+  {
+    "codigo": "012626",
+    "url": "https://www.ristoris.it/public/330000-330000-012626.jpg",
+    "status": "ok",
+    "width": 550,
+    "height": 800,
+    "format": "jpeg"
+  },
+  {
+    "codigo": "012615",
+    "url": "https://www.ristoris.it/public/251121-132018-012615prodotto.jpg",
+    "status": "ok",
+    "width": 400,
+    "height": 582,
+    "format": "jpeg"
+  },
+  {
+    "codigo": "017021",
+    "url": "https://www.ristoris.it/public/050517-113136-017021.jpg",
+    "status": "ok",
+    "width": 550,
+    "height": 800,
+    "format": "jpeg"
+  },
+  {
+    "codigo": "017065",
+    "url": "https://www.ristoris.it/public/330000-330000-017070.jpg",
+    "status": "ok",
+    "width": 550,
+    "height": 800,
+    "format": "jpeg"
+  },
+  {
+    "codigo": "017070",
+    "url": "https://www.ristoris.it/public/330000-330000-017070.jpg",
+    "status": "ok",
+    "width": 550,
+    "height": 800,
+    "format": "jpeg"
+  },
+  {
+    "codigo": "017028",
+    "url": "https://www.ristoris.it/public/050517-113654-017028.jpg",
+    "status": "ok",
+    "width": 550,
+    "height": 800,
+    "format": "jpeg"
+  },
+  {
+    "codigo": "017005",
+    "url": "https://www.ristoris.it/public/050517-115234-017005.jpg",
+    "status": "ok",
+    "width": 550,
+    "height": 800,
+    "format": "jpeg"
+  },
+  {
+    "codigo": "017014",
+    "url": "https://www.ristoris.it/public/050517-115832-017014.jpg",
+    "status": "ok",
+    "width": 550,
+    "height": 800,
+    "format": "jpeg"
+  },
+  {
+    "codigo": "005031",
+    "url": "https://www.ristoris.it/public/240424-114400-linksito4.jpg",
+    "status": "ok",
+    "width": 400,
+    "height": 582,
+    "format": "jpeg"
+  },
+  {
+    "codigo": "006500",
+    "url": "https://www.ristoris.it/public/330000-330000-006500.jpg",
+    "status": "ok",
+    "width": 550,
+    "height": 800,
+    "format": "jpeg"
+  },
+  {
+    "codigo": "010510",
+    "url": "https://www.ristoris.it/public/330000-330000-010510.jpg",
+    "status": "ok",
+    "width": 550,
+    "height": 800,
+    "format": "jpeg"
+  },
+  {
+    "codigo": "001507",
+    "url": "https://www.ristoris.it/public/330000-330000-001507.jpg",
+    "status": "ok",
+    "width": 550,
+    "height": 800,
+    "format": "jpeg"
+  },
+  {
+    "codigo": "001520",
+    "url": "https://www.ristoris.it/public/330000-330000-001521.jpg",
+    "status": "ok",
+    "width": 550,
+    "height": 800,
+    "format": "jpeg"
+  },
+  {
+    "codigo": "001528",
+    "url": "https://www.ristoris.it/public/200225-084903-linkxsito2.png",
+    "status": "ok",
+    "width": 400,
+    "height": 582,
+    "format": "png"
+  },
+  {
+    "codigo": "003556",
+    "url": "https://www.ristoris.it/public/261121-125650-003556prodotto.jpg",
+    "status": "ok",
+    "width": 400,
+    "height": 582,
+    "format": "jpeg"
+  },
+  {
+    "codigo": "009521",
+    "url": "https://www.ristoris.it/public/330000-330000-009521.jpg",
+    "status": "ok",
+    "width": 550,
+    "height": 800,
+    "format": "jpeg"
+  },
+  {
+    "codigo": "009520",
+    "url": "https://www.ristoris.it/public/261121-115959-009520prodotto.jpg",
+    "status": "ok",
+    "width": 400,
+    "height": 582,
+    "format": "jpeg"
+  },
+  {
+    "codigo": "015007",
+    "url": "https://www.ristoris.it/public/330000-330000-015007.jpg",
+    "status": "ok",
+    "width": 550,
+    "height": 800,
+    "format": "jpeg"
+  },
+  {
+    "codigo": "003028",
+    "url": "https://www.ristoris.it/public/330000-330000-003028.jpg",
+    "status": "ok",
+    "width": 550,
+    "height": 800,
+    "format": "jpeg"
+  },
+  {
+    "codigo": "003014",
+    "url": "https://www.ristoris.it/public/330000-330000-003014.jpg",
+    "status": "ok",
+    "width": 550,
+    "height": 800,
+    "format": "jpeg"
+  },
+  {
+    "codigo": "004057",
+    "url": "https://www.ristoris.it/public/261121-155931-004057prodotto.jpg",
+    "status": "ok",
+    "width": 400,
+    "height": 582,
+    "format": "jpeg"
+  },
+  {
+    "codigo": "002570",
+    "url": "https://www.ristoris.it/public/330000-330000-002570.jpg",
+    "status": "ok",
+    "width": 550,
+    "height": 800,
+    "format": "jpeg"
+  },
+  {
+    "codigo": "002581",
+    "url": "https://www.ristoris.it/public/021221-101601-002581prodotto.png",
+    "status": "ok",
+    "width": 400,
+    "height": 582,
+    "format": "png"
+  },
+  {
+    "codigo": "001005",
+    "url": "https://www.ristoris.it/public/330000-330000-001005.jpg",
+    "status": "ok",
+    "width": 550,
+    "height": 800,
+    "format": "jpeg"
+  }
+]

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+<meta name="theme-color" content="#3a352f" />
+<meta name="description" content="Catálogo de productos Ristoris — Italo Gelateria" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<meta name="apple-mobile-web-app-title" content="Ristoris Italo" />
+<link rel="manifest" href="manifest.json" />
+<link rel="apple-touch-icon" href="icons/icon-192.png" />
+<link rel="icon" href="icons/icon-192.png" />
+<title>Catálogo Ristoris — Italo Gelateria</title>
+<link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+
+<header class="app-header">
+  <div class="header-inner">
+    <button class="brand" id="btnHome" aria-label="Ir al inicio">
+      <svg class="brand-icon" viewBox="0 0 100 100" aria-hidden="true">
+        <circle cx="50" cy="50" r="48" fill="none" stroke="currentColor" stroke-width="2" opacity="0.5"/>
+        <path d="M38 20 C33 22 30 28 31 35 C28 36 26 39 27 43 C24 45 23 50 26 54 C24 58 25 63 29 66 C29 72 33 77 39 79 L39 85 L61 85 L61 79 C58 78 56 76 55 73 L52 73 C48 73 45 70 45 66 L45 60 C49 59 52 55 52 51 C55 50 57 47 57 44 C60 42 61 38 59 35 C61 31 60 26 56 23 C54 19 49 17 44 18 C42 18 40 19 38 20 Z" fill="currentColor"/>
+      </svg>
+      <span class="brand-text">
+        <strong>Ristoris</strong>
+        <small>Catálogo Italo Gelateria</small>
+      </span>
+    </button>
+
+    <div class="search-wrap">
+      <svg viewBox="0 0 24 24" class="search-icon" aria-hidden="true"><path fill="currentColor" d="M21.7 20.3l-5.4-5.4A8 8 0 1 0 14.9 16.3l5.4 5.4zM4 10a6 6 0 1 1 12 0 6 6 0 0 1-12 0z"/></svg>
+      <input id="searchInput" type="search" inputmode="search" placeholder="Buscar producto en español o italiano…" autocomplete="off" />
+    </div>
+
+    <button class="lang-toggle" id="btnLangGlobal" aria-label="Cambiar idioma de las fichas">
+      <span id="langGlobalLabel">ES + IT</span>
+    </button>
+  </div>
+
+  <nav class="cat-nav" id="catNav" aria-label="Categorías"></nav>
+</header>
+
+<main id="mainView"></main>
+
+<div id="detailOverlay" class="detail-overlay" hidden>
+  <div class="detail-card" id="detailCard"></div>
+</div>
+
+<div id="offlineToast" class="offline-toast" hidden>Sin conexión — mostrando datos guardados</div>
+<div id="installToast" class="install-toast" hidden>
+  <span>Instalá esta app: tocá <strong>Compartir</strong> → <strong>Agregar a inicio</strong></span>
+  <button id="btnDismissInstall" aria-label="Cerrar">✕</button>
+</div>
+
+<script src="js/app.js"></script>
+</body>
+</html>
