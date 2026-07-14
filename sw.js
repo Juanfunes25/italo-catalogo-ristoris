@@ -2,7 +2,7 @@
 // Cachea todo el app shell + el dataset + todas las fotos de producto
 // para que la app funcione 100% offline después de la primera carga.
 
-var CACHE_VERSION = 'ristoris-catalogo-v4';
+var CACHE_VERSION = 'ristoris-catalogo-v5';
 var CORE_ASSETS = [
   './',
   './index.html',
@@ -16,18 +16,28 @@ var CORE_ASSETS = [
   './data/productos.json',
 ];
 
+// fetch con {cache:'reload'} para que el app shell nunca se guarde a
+// partir de una copia vieja del caché HTTP del navegador al instalar.
+function fetchFresh(url) {
+  return fetch(url, { cache: 'reload' });
+}
+
 self.addEventListener('install', function (event) {
   event.waitUntil(
     caches.open(CACHE_VERSION).then(function (cache) {
-      return cache.addAll(CORE_ASSETS).then(function () {
+      return Promise.all(
+        CORE_ASSETS.map(function (url) {
+          return fetchFresh(url).then(function (res) { return cache.put(url, res); });
+        })
+      ).then(function () {
         // Precache todas las fotos de producto listadas en productos.json
-        return fetch('./data/productos.json').then(function (r) { return r.json(); }).then(function (productos) {
+        return fetchFresh('./data/productos.json').then(function (r) { return r.json(); }).then(function (productos) {
           var imgUrls = productos
             .filter(function (p) { return p.imagen; })
             .map(function (p) { return './' + p.imagen; });
           return Promise.all(
             imgUrls.map(function (url) {
-              return cache.add(url).catch(function (err) {
+              return fetchFresh(url).then(function (res) { return cache.put(url, res); }).catch(function (err) {
                 console.warn('No se pudo cachear', url, err);
               });
             })
