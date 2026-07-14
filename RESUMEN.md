@@ -16,11 +16,14 @@ Las fotos originales de `data/images/*.jpg` eran recortes de baja resolución de
 - Se mantuvo el mismo nombre de archivo y extensión `.jpg` en todos los casos, así no hizo falta tocar `productos.json`, `sw.js` ni el manifest.
 - Se subió la versión de caché del service worker (`ristoris-catalogo-v1` → `v2`) para que los usuarios que ya tenían la app instalada reciban las fotos nuevas en la próxima conexión.
 
-### 2 productos que se quedaron con el recorte del PDF (no se encontró match verificable)
+### Actualización 2026-07-14 (2ª pasada): RT0717 resuelto
+
+`RT0717` (Sugo Cacio e Pepe) era top seller y su foto (recorte del PDF) se veía mal. No estaba en ristoris.it, pero se encontró en la tienda gourmet **Emporio Italia** (emporio-italia.com), que vende el producto real "Ristoris - Sugo Cacio&Pepe - 212ml" — misma línea "Oggi si gusta" y mismo diseño de etiqueta que el resto de los frascos Retail ya usados en el catálogo. Foto verificada por nombre exacto del producto y coherencia de marca/línea, descargada en alta resolución (2048×2048 original) y aplanada sobre el mismo fondo neutro `#faf9f6`. `data/images/RT0717.jpg` actualizado.
+
+### 1 producto que se quedó con el recorte del PDF (no se encontró match verificable)
 
 | Código | Producto | Motivo |
 |---|---|---|
-| `RT0717` | Sugo Cacio e Pepe | No aparece en la grilla de línea Retail vigente en ristoris.it (esa grilla llega hasta "Sugo all'Amatriciana"/RT0716) ni en la categoría catering "I Sughi e i Ragù" del sitio general (que solo tiene una versión con código distinto, `002542` "Salsa Cacio e pepe"). Sin un match verificado por código o nombre exacto, se optó por dejar la foto original antes que arriesgar una equivocada. |
 | `004028` | Zafferano (azafrán en polvo) | Se encontró y reemplazó la foto de `004025` Salsa allo Zafferano (código exacto), pero el azafrán en polvo puro (`004028`) no apareció como producto propio en las categorías revisadas del sitio (solo la salsa). No se encontró ficha verificable para el polvo solo. |
 
 ### Producto que estaba pendiente — resuelto
