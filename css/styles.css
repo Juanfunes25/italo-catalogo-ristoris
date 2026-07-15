@@ -207,8 +207,8 @@ main { padding: 20px; padding-bottom: calc(40px + var(--safe-bottom)); max-width
 
 .grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  gap: 16px;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  gap: 14px;
 }
 
 .card {
@@ -222,7 +222,7 @@ main { padding: 20px; padding-bottom: calc(40px + var(--safe-bottom)); max-width
   padding: 0;
   display: flex;
   flex-direction: column;
-  min-height: 250px;
+  min-height: 210px;
   position: relative;
   transition: transform 0.12s ease;
 }
