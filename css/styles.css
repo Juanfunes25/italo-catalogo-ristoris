@@ -489,3 +489,31 @@ main { padding: 20px; padding-bottom: calc(40px + var(--safe-bottom)); max-width
   main { padding: 14px; }
   .grid { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 12px; }
 }
+
+/* ---------- Bloqueo de horizontal: la app está pensada solo para vertical ---------- */
+.rotate-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 999;
+  background: var(--negro-mate);
+  background-image: linear-gradient(160deg, var(--negro-mate-2), var(--negro-mate) 70%);
+  color: var(--texto-invertido);
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 22px;
+  text-align: center;
+  padding: 30px;
+}
+.rotate-icon { width: 84px; height: 84px; color: var(--terracota-light); animation: rotate-hint 1.8s ease-in-out infinite; }
+.rotate-overlay p { font-size: 1.2rem; font-weight: 700; line-height: 1.5; margin: 0; }
+
+@keyframes rotate-hint {
+  0%, 100% { transform: rotate(0deg); }
+  50% { transform: rotate(-90deg); }
+}
+
+@media (orientation: landscape) {
+  .rotate-overlay { display: flex; }
+}
