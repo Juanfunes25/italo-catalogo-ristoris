@@ -204,7 +204,6 @@
             '<button class="lang-btn' + (state.detailLang === 'it' ? ' active' : '') + '" data-lang="it">Italiano</button>' +
           '</div>' : '') +
         descBlock +
-        '<div class="price-note">Uso interno · precio de compra a Ristoris: ' + (p.precio_ristoris_eur != null ? ('€ ' + p.precio_ristoris_eur.toFixed(2)) : '—') + ' (no es el precio al público)</div>' +
       '</div>'
     );
   }
